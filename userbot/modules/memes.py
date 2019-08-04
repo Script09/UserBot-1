@@ -184,9 +184,9 @@ FACEREACTS = [
     "(｡◕‿◕｡)",
 ]
 RUNSREACTS = [
-    "`Runs to pedo Mukesh`",
+    "`Runs to pero rakesh`",
     "`Runs far, far away from earth`",
-    "`Running faster than supercomputer coz I'm Spyderzzz Frand`",
+    "`Running faster than supercomputer coz I'm RubyRox Frand`",
     "`Runs to Rose`",
     "`This Group is too kensurass to deal with.`",
     "`Cya bois`",
